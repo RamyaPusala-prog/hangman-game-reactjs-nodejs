@@ -1,0 +1,32 @@
+.app-main {
+  color: black;
+}
+
+.header {
+  text-align: center;
+}
+
+.text-typing {
+  letter-spacing: 1em;
+  margin: 0.4em -1em 0.2em 0;
+  font-size: 1.5rem;
+  color: #158cee;
+  text-transform: capitalize;
+}
+
+.main {
+  text-align: center;
+}
+
+.alpha-buttons {
+  text-transform: capitalize;
+  border: none;
+  font-size: 50px;
+  cursor: pointer;
+  width: 100px;
+  margin: 10px 10px 10px 10px;
+  background: #158cee;
+  border-radius: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
